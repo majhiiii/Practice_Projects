@@ -16,7 +16,7 @@ while True:
         choice = int(input('Enter a valid choice please: '))
 
     if choice == 1:
-        choice_name = 'Rock'
+        choice_name =  'Rock'
     elif choice == 2:
         choice_name = 'Paper'
     else:
